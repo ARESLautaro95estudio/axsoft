@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lemar\\Desktop\\Evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C473A44-ED02-48CD-AD6C-70520F994BC8}|AcademiaChallengeTest\\AcademiaChallengeTest.csproj|c:\\users\\lemar\\desktop\\evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\academiachallengetest\\procesadorfacturasaxofttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C473A44-ED02-48CD-AD6C-70520F994BC8}|AcademiaChallengeTest\\AcademiaChallengeTest.csproj|solutionrelative:academiachallengetest\\procesadorfacturasaxofttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394ED99C-664B-43BC-B397-A655B2262458}|AcademiaChallenge\\AcademiaChallenge.csproj|c:\\users\\lemar\\desktop\\evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\academiachallenge\\procesadorfacturasaxoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394ED99C-664B-43BC-B397-A655B2262458}|AcademiaChallenge\\AcademiaChallenge.csproj|solutionrelative:academiachallenge\\procesadorfacturasaxoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394ED99C-664B-43BC-B397-A655B2262458}|AcademiaChallenge\\AcademiaChallenge.csproj|c:\\users\\lemar\\desktop\\evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\academiachallenge\\model\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394ED99C-664B-43BC-B397-A655B2262458}|AcademiaChallenge\\AcademiaChallenge.csproj|solutionrelative:academiachallenge\\model\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394ED99C-664B-43BC-B397-A655B2262458}|AcademiaChallenge\\AcademiaChallenge.csproj|c:\\users\\lemar\\desktop\\evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\academiachallenge\\model\\renglonfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394ED99C-664B-43BC-B397-A655B2262458}|AcademiaChallenge\\AcademiaChallenge.csproj|solutionrelative:academiachallenge\\model\\renglonfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394ED99C-664B-43BC-B397-A655B2262458}|AcademiaChallenge\\AcademiaChallenge.csproj|c:\\users\\lemar\\desktop\\evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\academiachallenge\\exceptions\\validacionfacturaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394ED99C-664B-43BC-B397-A655B2262458}|AcademiaChallenge\\AcademiaChallenge.csproj|solutionrelative:academiachallenge\\exceptions\\validacionfacturaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\7.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C473A44-ED02-48CD-AD6C-70520F994BC8}|AcademiaChallengeTest\\AcademiaChallengeTest.csproj|c:\\users\\lemar\\desktop\\evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\academiachallengetest\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C473A44-ED02-48CD-AD6C-70520F994BC8}|AcademiaChallengeTest\\AcademiaChallengeTest.csproj|solutionrelative:academiachallengetest\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394ED99C-664B-43BC-B397-A655B2262458}|AcademiaChallenge\\AcademiaChallenge.csproj|c:\\users\\lemar\\desktop\\evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\academiachallenge\\exceptions\\numeracioninvalidaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394ED99C-664B-43BC-B397-A655B2262458}|AcademiaChallenge\\AcademiaChallenge.csproj|solutionrelative:academiachallenge\\exceptions\\numeracioninvalidaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\7.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\7.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-02T14:32:46.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\lemar\\Desktop\\Evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\AcademiaChallengeTest\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "AcademiaChallengeTest\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\lemar\\Desktop\\Evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\AcademiaChallengeTest\\GlobalUsings.cs",
+              "RelativeToolTip": "AcademiaChallengeTest\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:41:11.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProcesadorFacturasAxoftTest.cs",
+              "DocumentMoniker": "C:\\Users\\lemar\\Desktop\\Evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\AcademiaChallengeTest\\ProcesadorFacturasAxoftTest.cs",
+              "RelativeDocumentMoniker": "AcademiaChallengeTest\\ProcesadorFacturasAxoftTest.cs",
+              "ToolTip": "C:\\Users\\lemar\\Desktop\\Evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\AcademiaChallengeTest\\ProcesadorFacturasAxoftTest.cs",
+              "RelativeToolTip": "AcademiaChallengeTest\\ProcesadorFacturasAxoftTest.cs",
+              "ViewState": "AgIAAAgCAAAAAAAAAAAMwOECAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:41:08.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcesadorFacturasAxoft.cs",
+              "DocumentMoniker": "C:\\Users\\lemar\\Desktop\\Evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\AcademiaChallenge\\ProcesadorFacturasAxoft.cs",
+              "RelativeDocumentMoniker": "AcademiaChallenge\\ProcesadorFacturasAxoft.cs",
+              "ToolTip": "C:\\Users\\lemar\\Desktop\\Evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\AcademiaChallenge\\ProcesadorFacturasAxoft.cs",
+              "RelativeToolTip": "AcademiaChallenge\\ProcesadorFacturasAxoft.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowFcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:28:46.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RenglonFactura.cs",
+              "DocumentMoniker": "C:\\Users\\lemar\\Desktop\\Evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\AcademiaChallenge\\Model\\RenglonFactura.cs",
+              "RelativeDocumentMoniker": "AcademiaChallenge\\Model\\RenglonFactura.cs",
+              "ToolTip": "C:\\Users\\lemar\\Desktop\\Evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\AcademiaChallenge\\Model\\RenglonFactura.cs",
+              "RelativeToolTip": "AcademiaChallenge\\Model\\RenglonFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:28:36.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\lemar\\Desktop\\Evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\AcademiaChallenge\\Model\\Factura.cs",
+              "RelativeDocumentMoniker": "AcademiaChallenge\\Model\\Factura.cs",
+              "ToolTip": "C:\\Users\\lemar\\Desktop\\Evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\AcademiaChallenge\\Model\\Factura.cs",
+              "RelativeToolTip": "AcademiaChallenge\\Model\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:28:32.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidacionFacturaException.cs",
+              "DocumentMoniker": "C:\\Users\\lemar\\Desktop\\Evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\AcademiaChallenge\\Exceptions\\ValidacionFacturaException.cs",
+              "RelativeDocumentMoniker": "AcademiaChallenge\\Exceptions\\ValidacionFacturaException.cs",
+              "ToolTip": "C:\\Users\\lemar\\Desktop\\Evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\AcademiaChallenge\\Exceptions\\ValidacionFacturaException.cs",
+              "RelativeToolTip": "AcademiaChallenge\\Exceptions\\ValidacionFacturaException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:28:27.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NumeracionInvalidaException.cs",
+              "DocumentMoniker": "C:\\Users\\lemar\\Desktop\\Evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\AcademiaChallenge\\Exceptions\\NumeracionInvalidaException.cs",
+              "RelativeDocumentMoniker": "AcademiaChallenge\\Exceptions\\NumeracionInvalidaException.cs",
+              "ToolTip": "C:\\Users\\lemar\\Desktop\\Evaluacion axoft\\academiachallenge-main\\academiachallenge-main\\AcademiaChallenge\\Exceptions\\NumeracionInvalidaException.cs",
+              "RelativeToolTip": "AcademiaChallenge\\Exceptions\\NumeracionInvalidaException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:28:20.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

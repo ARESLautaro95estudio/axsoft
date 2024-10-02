@@ -1,0 +1,11 @@
+C:\Users\lemar\Desktop\Evaluacion axoft\academiachallenge-main\academiachallenge-main\AcademiaChallenge\obj\Debug\net8.0\AcademiaChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lemar\Desktop\Evaluacion axoft\academiachallenge-main\academiachallenge-main\AcademiaChallenge\obj\Debug\net8.0\AcademiaChallenge.AssemblyInfoInputs.cache
+C:\Users\lemar\Desktop\Evaluacion axoft\academiachallenge-main\academiachallenge-main\AcademiaChallenge\obj\Debug\net8.0\AcademiaChallenge.AssemblyInfo.cs
+C:\Users\lemar\Desktop\Evaluacion axoft\academiachallenge-main\academiachallenge-main\AcademiaChallenge\obj\Debug\net8.0\AcademiaChallenge.csproj.CoreCompileInputs.cache
+C:\Users\lemar\Desktop\Evaluacion axoft\academiachallenge-main\academiachallenge-main\AcademiaChallenge\bin\Debug\net8.0\AcademiaChallenge.deps.json
+C:\Users\lemar\Desktop\Evaluacion axoft\academiachallenge-main\academiachallenge-main\AcademiaChallenge\bin\Debug\net8.0\AcademiaChallenge.dll
+C:\Users\lemar\Desktop\Evaluacion axoft\academiachallenge-main\academiachallenge-main\AcademiaChallenge\bin\Debug\net8.0\AcademiaChallenge.pdb
+C:\Users\lemar\Desktop\Evaluacion axoft\academiachallenge-main\academiachallenge-main\AcademiaChallenge\obj\Debug\net8.0\AcademiaChallenge.dll
+C:\Users\lemar\Desktop\Evaluacion axoft\academiachallenge-main\academiachallenge-main\AcademiaChallenge\obj\Debug\net8.0\refint\AcademiaChallenge.dll
+C:\Users\lemar\Desktop\Evaluacion axoft\academiachallenge-main\academiachallenge-main\AcademiaChallenge\obj\Debug\net8.0\AcademiaChallenge.pdb
+C:\Users\lemar\Desktop\Evaluacion axoft\academiachallenge-main\academiachallenge-main\AcademiaChallenge\obj\Debug\net8.0\ref\AcademiaChallenge.dll
